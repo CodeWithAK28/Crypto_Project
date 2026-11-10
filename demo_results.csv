@@ -1,0 +1,3 @@
+time,original_message,received_message,category,verification,chars_changed,message_damage_pct,hash_bits_changed,hash_damage_pct,signature_bits_flipped
+2026-11-10 19:45:59,hello anuu,hello anuu,No change,VALID,0,0.0,0,0.0,0
+2026-11-10 19:46:50,hello anuu,hello rokum,Word replacement,INVALID,4,36.36,129,50.39,0
