@@ -1,3 +1,5 @@
 time,original_message,received_message,category,verification,chars_changed,message_damage_pct,hash_bits_changed,hash_damage_pct,signature_bits_flipped
 2026-11-10 19:45:59,hello anuu,hello anuu,No change,VALID,0,0.0,0,0.0,0
 2026-11-10 19:46:50,hello anuu,hello rokum,Word replacement,INVALID,4,36.36,129,50.39,0
+2026-11-13 09:37:56,i am jaadu,U am jaadu,Single character substitution,INVALID,1,10.0,139,54.3,0
+2026-11-13 10:13:31,hello how are u,hello why are u,Word replacement,INVALID,3,20.0,133,51.95,0
